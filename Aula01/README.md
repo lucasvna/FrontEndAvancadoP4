@@ -13,4 +13,4 @@ Este projeto contém dois exercícios práticos utilizando React com Vite. O obj
 * JavaScript 
 
 ## Resultado no navegador
-![Resultados]([Aula01/src/assets/img.png])
+![Resultados]([/Aula01/src/assets/img.png])
