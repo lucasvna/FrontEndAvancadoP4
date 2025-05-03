@@ -13,4 +13,4 @@ Este projeto contém dois exercícios práticos utilizando React com Vite. O obj
 * JavaScript 
 
 ## Resultado no navegador
-![Resultados](https://github.com/lucasvna/FrontEndAvancadoP4/blob/main/TAF/src/assets/img.png)
+![Resultados](https://github.com/user-attachments/assets/b424ac86-2ddd-46d8-b624-2b3f2568114f)
