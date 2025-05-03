@@ -1,0 +1,22 @@
+{
+    "noticias": [
+        {
+            "id": 1,
+            "titulo": "Reitora do UNIESP, Érika Marques, participa de visita técnica sobre desenvolvimento urbano e governança pública em Maringá",
+            "subtitulo": "Professora estará na comitiva representando a pasta da Educação da Paraíba",
+            "texto_da_noticia": "A reitora do UNIESP Centro Universitário, professora Érika Marques, fará parte de um grupo de líderes que visitará a cidade de Maringá (PR) para uma missão técnica, onde serão discutidos temas como desenvolvimento urbano e boas práticas de educação."
+        },
+        {
+            "id": 2,
+            "titulo": "Divulgado edital da VIII Mostra Científica do Curso de Enfermagem do UNIESP",
+            "subtitulo": "Inscrição e submissão dos trabalhos começam amanhã (24)",
+            "texto_da_noticia": "O UNIESP Centro Universitário, através da coordenação do curso de Enfermagem, divulgou hoje (23) o edital para inscrição e submissão de trabalhos da VIII Mostra Científica do Curso de Enfermagem do UNIESP."
+        },
+        {
+            "id": 3,
+            "titulo": "Estudantes do UNIESP participam de projeto em parceria com a Federação de Esportes Aquáticos da Paraíba",
+            "subtitulo": "Projeto Acquacrew reúne alunos dos cursos de Publicidade e Propaganda, Produção Publicitária e Educação Física",
+            "texto_da_noticia": "Nos dias 10, 11 e 12 de abril, João Pessoa foi a capital nordestina da natação, com a realização do XXVII Campeonato Nordeste de Natação – Troféu Sérgio Silva, organizado pela Federação de Esportes Aquáticos da Paraíba (FEAP). Para alunos dos cursos de Publicidade e Propaganda, Produção Publicitária e Educação Física do UNIESP, a competição foi também uma oportunidade de vivenciar o marketing esportivo dentro e fora das piscinas."
+        }
+    ]
+}

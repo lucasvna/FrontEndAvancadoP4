@@ -1,0 +1,44 @@
+{
+  "alunos": [
+    {
+      "matricula": "2432234423",
+      "nome": "Jose",
+      "id": "320e"
+    },
+    {
+      "matricula": "2432234423",
+      "nome": "Camila",
+      "id": "ae7d"
+    },
+    {
+      "matricula": "2432234423",
+      "nome": "Danilo",
+      "id": "635d"
+    },
+    {
+      "matricula": "2432234423",
+      "nome": "Carlos",
+      "id": "bc12"
+    },
+    {
+      "matricula": "2432234423",
+      "nome": "Joao",
+      "id": "2b96"
+    },
+    {
+      "id": "1c0c",
+      "nome": "Oswaldo",
+      "matricula": "231123123123"
+    },
+    {
+      "id": "9295",
+      "nome": "Rogério ",
+      "matricula": "231123123123"
+    },
+    {
+      "id": "4fcc",
+      "nome": "Silva",
+      "matricula": "123456789"
+    }
+  ]
+}

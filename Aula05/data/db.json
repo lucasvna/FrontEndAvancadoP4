@@ -1,0 +1,19 @@
+{
+    "alunos": [
+        {   
+            "id": 1,
+            "nome": "brrr brr patapim",
+            "email": "brbrpatapim@gmail.com"
+        },
+        {
+            "id": 2,
+            "nome": "tung tung tung tung tung tung tung sahur",
+            "email": "tungtungtungtungtungsahur@gmail.com"
+        },
+        {
+            "id": 3,
+            "nome": "bombardillo crocodillo",
+            "email": "crocs@gmail.com"
+        }
+    ]
+}
